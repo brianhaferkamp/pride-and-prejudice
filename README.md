@@ -1,5 +1,5 @@
 # Pride and Prejudice
-**Mobile-first universal book version of Jane Austen's, *Pride and Prejudice*
+**Mobile-first universal book version of Jane Austen's, _Pride and Prejudice_**
 
 Read *Pride and Prejudice* online
 
