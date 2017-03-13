@@ -1,7 +1,7 @@
 # Pride and Prejudice
 **Mobile-first universal book version of Jane Austen's, _Pride and Prejudice_**
 
-Read *Pride and Prejudice* online
+[Read *Pride and Prejudice* online](https://github.com/brianhaferkamp/pride-and-prejudice)
 
 This version of Jane Austen's novel is built from a universal book template. What is a universal book? It's a web-based digital book that can be read on any device with a web browser. 
 
